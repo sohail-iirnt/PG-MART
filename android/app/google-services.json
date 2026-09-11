@@ -1,0 +1,128 @@
+{
+  "project_info": {
+    "project_number": "1066676033089",
+    "project_id": "pg-mart-ac9fe",
+    "storage_bucket": "pg-mart-ac9fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066676033089:android:ad923f584c7cb4805b98c0",
+        "android_client_info": {
+          "package_name": "com.example.pg_mart_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066676033089-h9661ejd74re3d7ueqm7deaaf3tburs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pg_mart_admin",
+            "certificate_hash": "7d8a8a387ddd55629cd8c4248fd53921127f1eac"
+          }
+        },
+        {
+          "client_id": "1066676033089-e98jbcbkat2657e0qh6qfakohsc6vtmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBetPuoiT0OiXux1qIKf87VmKWjrQ6aqE"
+        },
+        {
+          "current_key": "AIzaSyB4sRc35IzxQh2P6N8W_P5Lr-gWoniyqe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066676033089-e98jbcbkat2657e0qh6qfakohsc6vtmq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066676033089-nj23bg3nkjr5shgp5r2mfbe5gct7ssfc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pgMart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066676033089:android:2335aa3f37db07d25b98c0",
+        "android_client_info": {
+          "package_name": "com.iiirobotics.pgmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066676033089-478ac092sunb3pcqa2m8ioo73pn51pnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iiirobotics.pgmart",
+            "certificate_hash": "d3b036c8de13c2df06c8c1940c7184afa622d3bf"
+          }
+        },
+        {
+          "client_id": "1066676033089-gmatuqfpmgbtv0m9d2qffnpe8asgrmpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iiirobotics.pgmart",
+            "certificate_hash": "e38c7ed567043b088173dd99dc9b883b111f8a85"
+          }
+        },
+        {
+          "client_id": "1066676033089-jtu9fvolqnklej56cqhs1regosc5cqju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iiirobotics.pgmart",
+            "certificate_hash": "7d8a8a387ddd55629cd8c4248fd53921127f1eac"
+          }
+        },
+        {
+          "client_id": "1066676033089-uadlodqhvkp1lcs89nlmirrunf6miulf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iiirobotics.pgmart",
+            "certificate_hash": "db229112e6afeaee0ecf00a06e36a4a54ea093b7"
+          }
+        },
+        {
+          "client_id": "1066676033089-e98jbcbkat2657e0qh6qfakohsc6vtmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBetPuoiT0OiXux1qIKf87VmKWjrQ6aqE"
+        },
+        {
+          "current_key": "AIzaSyB4sRc35IzxQh2P6N8W_P5Lr-gWoniyqe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066676033089-e98jbcbkat2657e0qh6qfakohsc6vtmq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1066676033089-nj23bg3nkjr5shgp5r2mfbe5gct7ssfc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pgMart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
